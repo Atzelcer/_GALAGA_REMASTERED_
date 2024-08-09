@@ -1,3 +1,9 @@
 # 🅶🅰🅻🅰🅶🅰 ​ 🆁🅴🅼🅰🆂🆃🅴🆁🅴🅳
 
-Videojuego Desarrollado en la Facultad de Tecnologia De la U.S.F.X en la materia de Sis-457 "Programacion Avanzada"a cargo del Ingeniero Pacheco Lora Carlos Walter, en el semestre 1/2024.
+|*| Videojuego 3D |*|
+
+^ Categoria : Videojuego de aventura - Space Ship .
+^ Universidad : Facultad de Tecnologia  " U.S.F.X "
+^ Materia : Programacion Avanzada __ Sis-457a 
+^ Docente : Ing. Pacheco Lora Carlos Walter
+^ Semestre :  1/2024.
