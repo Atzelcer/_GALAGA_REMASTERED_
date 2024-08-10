@@ -9,32 +9,10 @@
 
 ---
 
-### 🏛️ **Universidad**:  
-#### **Facultad de Tecnología "U.S.F.X"**
-
----
-
-### 💻 **Materia**:  
-#### **Programación Avanzada - SIS-457a**
-
----
-
-### 👨‍🏫 **Docente**:  
-#### **Ing. Pacheco Lora Carlos Walter**
-
----
-
-### 🗓️ **Semestre**:  
-#### **1/2024**
-
----
-
 ## 🌠 **Vista Previa del Proyecto** 🌠
 
 <p align="center">
-  <a href="https://postimg.cc/HjSLQ4T3">
-    <img src="https://i.postimg.cc/kXCtPfzr/GR-01.png" alt="Vista Previa de Galaga Remastered" width="500">
-  </a>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
 </p>
 
 ---
