@@ -1,44 +1,42 @@
-# ╔════════════════════════════════╗  
-# ║    ✨🚀 **🅶🅰🅻🅰🅶🅰 ​🆁🅴🅼🅰🆂🆃🅴🆁🅴🅳** 🚀✨ ║  
-# ╚════════════════════════════════╝  
+# ╔═════════════════════════════════════════════╗  
+# ║   ✨🚀 **🅶🅰🅻🅰🅶🅰 ​🆁🅴🅼🅰🆂🆃🅴🆁🅴🅳** 🚀✨   ║  
+# ╚═════════════════════════════════════════════╝  
 
-## 🌌 **Descripción del Proyecto** 🌌
+## 🌌 **Proyecto Espacial - Descripción** 🌌
 
-_"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugadores controlan la nave **Estrella de Andrómeda** en su misión para recuperar la misteriosa **TERRABLEY**. Este proyecto combina la emoción del combate en el espacio con la estrategia para derrotar a los enemigos y superar los niveles desafiantes."_
+_"**Galaga Remastered** es una épica aventura espacial que te coloca al mando de la nave **Estrella de Andrómeda**. Enfréntate a hordas de enemigos alienígenas mientras te adentras en lo desconocido, con el objetivo de recuperar la mística **TERRABLEY**. ¡Prepara tus motores y ajusta tus escudos, porque la batalla por la galaxia está a punto de comenzar!"_
 
 --- 
-## 🎮 **Videojuego 3D - Space Adventure** 🎮
+
+## 🎮 **Características del Videojuego** 🎮
+
+- 🛸 **Naves Espaciales Personalizables**: Mejora y personaliza tu nave a lo largo de la aventura.
+- 🌠 **Niveles Intergalácticos**: Explora y combate a través de múltiples niveles cada vez más desafiantes.
+- 💥 **Combate Contra Enemigos Alienígenas**: Enfrenta patrones de ataque únicos y jefes épicos.
+
 ---
 
-### 🌌 **Categoria**: 
-#### 🚀 **Videojuego de Aventura - Nave Espacial**
+## 🧑‍🚀 **Detalles del Proyecto** 🧑‍🚀
 
----
+### 🌌 **Categoría**: 
+#### 🚀 **Videojuego de Aventura Espacial**
 
 ### 🏛️ **Universidad**: 
 #### **Facultad de Tecnología "U.S.F.X"**
 
----
-
 ### 💻 **Materia**: 
 #### **Programación Avanzada - SIS-457a**
-
----
 
 ### 👨‍🏫 **Docente**: 
 #### **Ing. Pacheco Lora Carlos Walter**
 
----
-
 ### 🗓️ **Semestre**: 
 #### **1/2024**
 
----
+### 👨‍💻 **Desarrolladores - Programadores**:
 
-### 👨‍💻🧑‍💻💻 Desarrolladores - Programadores :
-
-###  ^ Atzel Alan Cervantes Torrres 
-###  ^ Elmer Kevin Vela Gutiérrez 
+- 🛸 **Atzel Alan Cervantes Torres** 
+- 🛸 **Elmer Kevin Vela Gutiérrez**
 
 ---
 
@@ -84,24 +82,16 @@ _"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugador
 
 ---
 
-## 🚀 **Características Principales** 🚀
-
-- 🛸 **Naves Espaciales** con mejoras progresivas y personalización visual.
-- 🌠 **Niveles Intergalácticos** llenos de desafíos, cada uno más difícil que el anterior.
-- 💥 **Combate Épico** contra enemigos alienígenas con patrones de ataque únicos.
-
----
-
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68025698/92303345-c79f9580-ef51-11ea-946a-8b15cf58ce3e.gif" alt="Space Animation" width="600">
 </p>
 
 ---
 
-#  ╔═════════════════════════════════════╗  
+#  ╔═══════════════════════════════════════════╗  
 #  ║✨ **¡Prepárate para una experiencia cósmica sin igual!** ✨║  
-#  ╚═════════════════════════════════════╝  
+#  ╚═══════════════════════════════════════════╝  
 
-## 🔗 **Enlace al Ejecutable**:
+## 🌐 **Enlace al Ejecutable** 🌐
 
-🔗 [Descargar Galaga Remastered](https://drive.google.com/drive/folders/1pqXsA5pE1vN-v9cAjTb8maEVNhY5r71a?usp=drive_link)
+🌌 **Descarga el juego aquí**: [Galaga Remastered - Ejecutable](https://drive.google.com/drive/folders/1pqXsA5pE1vN-v9cAjTb8maEVNhY5r71a?usp=drive_link)
