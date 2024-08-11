@@ -88,7 +88,7 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
 ---
 
 #  ╔══════════════════════════════════╗  
-#  ║¡Prepárate para una experiencia cósmica sin igual!║  
+#  ║  ¡Prepárate para una experiencia cósmica sin igual!  ║  
 #  ╚══════════════════════════════════╝  
 
 
