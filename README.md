@@ -17,7 +17,8 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
 ---
 
 🧑‍🚀 Detalles del Proyecto 🧑‍🚀
-🌌 Categoría: < align="center">🚀 **Videojuego de Aventura Espacial**</p>
+🌌 Categoría:
+<p align="center">🚀 **Videojuego de Aventura Espacial**</p>
 🏛️ Universidad:
 <p align="center">**Facultad de Tecnología "U.S.F.X"**</p>
 💻 Materia:
@@ -27,8 +28,8 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
 🗓️ Semestre:
 <p align="center">**1/2024**</p>
 👨‍💻 Desarrolladores - Programadores:
-🛸 Atzel Alan Cervantes Torres
-🛸 Elmer Kevin Vela Gutiérrez
+<p align="center">- 🛸 **Atzel Alan Cervantes Torres**</p>  
+<p align="center">- 🛸 **Elmer Kevin Vela Gutiérrez**</p>
 
 ---
 
