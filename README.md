@@ -38,6 +38,8 @@
 ###  ^ Atzel Alan Cervantes Torrres 
 ###  ^ Elmer Kevin Vela Gutiérrez 
 
+---
+
 ## 🌠 **Vista Previa del Proyecto** 🌠
 
 <p align="center">
