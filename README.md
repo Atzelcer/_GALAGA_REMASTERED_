@@ -18,20 +18,15 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
 
 ## 🧑‍🚀 **Detalles del Proyecto** 🧑‍🚀
 
-### 🌌 **Categoría**: 
-#### 🚀 **Videojuego de Aventura Espacial**
+### 🌌 **Categoría**:        🚀 **Videojuego de Aventura Espacial**
 
-### 🏛️ **Universidad**: 
-#### **Facultad de Tecnología "U.S.F.X"**
+### 🏛️ **Universidad**:      **Facultad de Tecnología "U.S.F.X"**
 
-### 💻 **Materia**: 
-#### **Programación Avanzada - SIS-457a**
+### 💻 **Materia**:          **Programación Avanzada - SIS-457**
 
-### 👨‍🏫 **Docente**: 
-#### **Ing. Pacheco Lora Carlos Walter**
+### 👨‍🏫 **Docente**:        **Ing. Pacheco Lora Carlos Walter**
 
-### 🗓️ **Semestre**: 
-#### **1/2024**
+### 🗓️ **Semestre**:         **1/2024**
 
 ### 👨‍💻 **Desarrolladores - Programadores**:
 
