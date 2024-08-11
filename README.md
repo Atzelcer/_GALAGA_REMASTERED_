@@ -43,17 +43,48 @@
 ## 🌠 **Vista Previa del Proyecto** 🌠
 
 <p align="center">
-  <a href="https://postimg.cc/HjSLQ4T3">
-    <img src="https://i.postimg.cc/kXCtPfzr/GR-01.png" alt="Galaga Remastered" width="500">
-  </a>
+  <table>
+    <tr>
+      <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
+        <a href="https://postimg.cc/HjSLQ4T3">
+          <img src="https://i.postimg.cc/kXCtPfzr/GR-01.png" alt="Galaga Remastered" width="500">
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
-
 <p align="center">
-  <a href="https://postimg.cc/BP9FTTTm">
-    <img src="https://i.postimg.cc/kXCtPfzr/GR-01.png" alt="Galaga Remastered" width="500">
-  </a>
+  <table>
+    <tr>
+      <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
+        <a href="https://postimg.cc/dh7DQWZg">
+          <img src="https://i.postimg.cc/Sxd9r3SQ/GR-05.png" alt="Galaga Remastered" width="500">
+        </a>
+      </td>
+      <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
+        <a href="https://postimg.cc/MXdG7kyh">
+          <img src="https://i.postimg.cc/pXtntRyX/GR-06.png" alt="Galaga Remastered" width="500">
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
+        <a href="https://postimg.cc/hfvtMCsh">
+          <img src="https://i.postimg.cc/yYX31tSh/GR-7.png" alt="Galaga Remastered" width="500">
+        </a>
+      </td>
+      <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
+        <a href="https://postimg.cc/BP9FTTTm">
+          <img src="https://i.postimg.cc/Fz1xQG7X/GR-02.png" alt="Galaga Remastered" width="500">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
 ---
 
 ## 🌌 **Descripción del Proyecto** 🌌
