@@ -4,45 +4,36 @@
 
 ---
 
-## ╔════════════════════════╗  
-## ║🎮 **Videojuego 3D - Space Adventure** 🎮║  
-## ╚════════════════════════╝  
+## 🎮 **Videojuego 3D - Space Adventure** 🎮
 
 ---
 
-### ╔════════════════════════╗  
-### ║🌌 **Categoría**: 🚀 **Videojuego de Aventura - Nave Espacial**║  
-### ╚════════════════════════╝  
+### 🌌 **Categoria**: 
+#### 🚀 **Videojuego de Aventura - Nave Espacial**
 
 ---
 
-### ╔════════════════════════╗  
-### ║🏛️ **Universidad**: 🏛️ _Facultad de Tecnología "U.S.F.X"_║  
-### ╚════════════════════════╝  
+### 🏛️ **Universidad**: 
+#### **Facultad de Tecnología "U.S.F.X"**
 
 ---
 
-### ╔════════════════════════╗  
-### ║💻 **Materia**: 💻 _Programación Avanzada - SIS-457a_║  
-### ╚════════════════════════╝  
+### 💻 **Materia**: 
+#### **Programación Avanzada - SIS-457a**
 
 ---
 
-### ╔════════════════════════╗  
-### ║👨‍🏫 **Docente**: 👨‍🏫 _Ing. Pacheco Lora Carlos Walter_║  
-### ╚════════════════════════╝  
+### 👨‍🏫 **Docente**: 
+#### **Ing. Pacheco Lora Carlos Walter**
 
 ---
 
-### ╔════════════════════════╗  
-### ║🗓️ **Semestre**: 🗓️ _1/2024_║  
-### ╚════════════════════════╝  
+### 🗓️ **Semestre**: 
+#### **1/2024**
 
 ---
 
-## ╔════════════════════════╗  
-## ║🌠 **Vista Previa del Proyecto** 🌠║  
-## ╚════════════════════════╝  
+## 🌠 **Vista Previa del Proyecto** 🌠
 
 <p align="center">
   <a href="https://postimg.cc/HjSLQ4T3">
@@ -52,17 +43,13 @@
 
 ---
 
-## ╔════════════════════════╗  
-## ║🌌 **Descripción del Proyecto** 🌌║  
-## ╚════════════════════════╝  
+## 🌌 **Descripción del Proyecto** 🌌
 
 _"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugadores controlan la nave **Estrella de Andrómeda** en su misión para recuperar la misteriosa **TERRABLEY**. Este proyecto combina la emoción del combate en el espacio con la estrategia para derrotar a los enemigos y superar los niveles desafiantes._
 
 ---
 
-## ╔════════════════════════╗  
-## ║🚀 **Características Principales** 🚀║  
-## ╚════════════════════════╝  
+## 🚀 **Características Principales** 🚀
 
 - 🛸 **Naves Espaciales** con mejoras progresivas y personalización visual.
 - 🌠 **Niveles Intergalácticos** llenos de desafíos, cada uno más difícil que el anterior.
@@ -76,6 +63,9 @@ _"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugador
 
 ---
 
+<p align="center">
+  ✨ **¡Prepárate para una experiencia cósmica sin igual!** ✨
+</p>
 <p align="center">
   ╔══════════════════════════════════════════════════╗  
   ║✨ **¡Prepárate para una experiencia cósmica sin igual!** ✨║  
