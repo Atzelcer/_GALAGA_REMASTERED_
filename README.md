@@ -48,6 +48,12 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://postimg.cc/BP9FTTTm">
+    <img src="https://i.postimg.cc/kXCtPfzr/GR-01.png" alt="Galaga Remastered" width="500">
+  </a>
+</p>
+
 ---
 
 ## 🌌 **Descripción del Proyecto** 🌌
