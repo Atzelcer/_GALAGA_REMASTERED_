@@ -4,8 +4,8 @@
 
 ## 🌌 **Descripción del Proyecto** 🌌
 
-_"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugadores controlan la nave **Estrella de Andrómeda** en su misión para recuperar la misteriosa **TERRABLEY**. Este proyecto combina la emoción del combate en el espacio con la estrategia para derrotar a los enemigos y superar los niveles desafiantes._
-# 
+_"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugadores controlan la nave **Estrella de Andrómeda** en su misión para recuperar la misteriosa **TERRABLEY**. Este proyecto combina la emoción del combate en el espacio con la estrategia para derrotar a los enemigos y superar los niveles desafiantes."_
+
 --- 
 ## 🎮 **Videojuego 3D - Space Adventure** 🎮
 ---
@@ -43,7 +43,6 @@ _"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugador
 ---
 
 ## 🌠 **Vista Previa del Proyecto** 🌠
-
 
 <p align="center">
   <a href="https://postimg.cc/HjSLQ4T3">
@@ -99,8 +98,10 @@ _"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugador
 
 ---
 
-
 #  ╔═════════════════════════════════════╗  
 #  ║✨ **¡Prepárate para una experiencia cósmica sin igual!** ✨║  
 #  ╚═════════════════════════════════════╝  
 
+## 🔗 **Enlace al Ejecutable**:
+
+🔗 [Descargar Galaga Remastered](https://drive.google.com/drive/folders/1pqXsA5pE1vN-v9cAjTb8maEVNhY5r71a?usp=drive_link)
