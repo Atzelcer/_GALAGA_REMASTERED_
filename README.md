@@ -17,8 +17,7 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
 ---
 
 🧑‍🚀 Detalles del Proyecto 🧑‍🚀
-🌌 Categoría:
-<p align="center">🚀 **Videojuego de Aventura Espacial**</p>
+🌌 Categoría: <p align="center">🚀 **Videojuego de Aventura Espacial**</p>
 🏛️ Universidad:
 <p align="center">**Facultad de Tecnología "U.S.F.X"**</p>
 💻 Materia:
