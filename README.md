@@ -100,7 +100,7 @@ _"**Galaga Remastered**" es un videojuego de aventura espacial donde los jugador
 ---
 
 
-#  ╔══════════════════════════════════╗  
+#  ╔══════════════════════════════════════╗  
 #  ║✨ **¡Prepárate para una experiencia cósmica sin igual!** ✨║  
-#  ╚══════════════════════════════════╝  
+#  ╚══════════════════════════════════════╝  
 
