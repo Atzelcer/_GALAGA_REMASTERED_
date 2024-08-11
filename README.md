@@ -57,8 +57,8 @@
         </a>
       </td>
       <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
-        <a href="https://postimg.cc/MXdG7kyh">
-          <img src="https://i.postimg.cc/pXtntRyX/GR-06.png" alt="Galaga Remastered" width="500">
+        <a href="https://postimg.cc/BP9FTTTm">
+          <img src="https://i.postimg.cc/Fz1xQG7X/GR-02.png" alt="Galaga Remastered" width="500">
         </a>
       </td>
     </tr>
@@ -72,9 +72,9 @@
           <img src="https://i.postimg.cc/yYX31tSh/GR-7.png" alt="Galaga Remastered" width="500">
         </a>
       </td>
-      <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
-        <a href="https://postimg.cc/BP9FTTTm">
-          <img src="https://i.postimg.cc/Fz1xQG7X/GR-02.png" alt="Galaga Remastered" width="500">
+        <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
+        <a href="https://postimg.cc/MXdG7kyh">
+          <img src="https://i.postimg.cc/pXtntRyX/GR-06.png" alt="Galaga Remastered" width="500">
         </a>
       </td>
     </tr>
