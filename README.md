@@ -35,8 +35,8 @@
 
 ### 👨‍💻🧑‍💻💻 Desarrolladores - Programadores :
 
-### Atzel Alan Cervantes Torrres 
-### Elmer Kevin Vela Gutiérrez 
+###  ^ Atzel Alan Cervantes Torrres 
+###  ^ Elmer Kevin Vela Gutiérrez 
 
 ## 🌠 **Vista Previa del Proyecto** 🌠
 
