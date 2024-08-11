@@ -42,16 +42,11 @@
 
 ## 🌠 **Vista Previa del Proyecto** 🌠
 
+
 <p align="center">
-  <table>
-    <tr>
-      <td align="center" style="border: 5px solid #00FFFF; padding: 10px;">
-        <a href="https://postimg.cc/HjSLQ4T3">
-          <img src="https://i.postimg.cc/kXCtPfzr/GR-01.png" alt="Galaga Remastered" width="500">
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="https://postimg.cc/HjSLQ4T3">
+    <img src="https://i.postimg.cc/kXCtPfzr/GR-01.png" alt="Galaga Remastered" width="1000" style="border: 5px solid #00FFFF; padding: 10px;">
+  </a>
 </p>
 <p align="center">
   <table>
