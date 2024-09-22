@@ -10,9 +10,8 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
 
 ## 🎮 **Características del Videojuego** 🎮
 
-- 🛸 **Naves Espaciales Personalizables**: Mejora y personaliza tu nave a lo largo de la aventura.
 - 🌠 **Niveles Intergalácticos**: Explora y combate a través de múltiples niveles cada vez más desafiantes.
-- 💥 **Combate Contra Enemigos Alienígenas**: Enfrenta patrones de ataque únicos y jefes épicos.
+- 💥 **Combate Contra Naves Enemigos**: Enfrenta patrones de ataque únicos y jefes épicos.
 
 ---
 
