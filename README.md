@@ -28,7 +28,7 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
       </ul>
     </td>
     <td align="center" width="60%">
-      <img src="https://github.com/user-attachments/assets/dbd70b0a-6871-4880-846d-971ec690dd77" alt="Logo Galaga" width="1300">
+      <img src="https://github.com/user-attachments/assets/dbd70b0a-6871-4880-846d-971ec690dd77" alt="Logo Galaga" width="700">
     </td>
   </tr>
 </table>
@@ -101,20 +101,23 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 
 ## 📫 Contacto
 
-<p align="center" style="display: flex; gap: 20px; justify-content: center; align-items: center;">
-  <a href="https://www.facebook.com/atzel.cervantes.7/" target="_blank">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <a href="https://wa.me/qr/W5KYOB6FW7KCM1" target="_blank" rel="noopener">
+    <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png" alt="WhatsApp" width="50">
+  </a>
+  <a href="https://www.facebook.com/atzel.cervantes.7/" target="_blank" rel="noopener">
     <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/facebook_k1vgq3.png" alt="Facebook" width="50">
   </a>
-  <a href="https://x.com/Atzelcer" target="_blank">
-    <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/gorjeo_rx0q9e.png" alt="Twitter" width="50">
+  <a href="https://x.com/Atzelcer" target="_blank" rel="noopener">
+    <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260959/Twitter_nvban3.png" alt="Twitter" width="50">
   </a>
-  <a href="https://www.instagram.com/scatfonther/" target="_blank">
+  <a href="https://www.instagram.com/scatfonther/" target="_blank" rel="noopener">
     <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260343/instagram_smik6z.png" alt="Instagram" width="50">
   </a>
-  <a href="https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/" target="_blank" rel="noopener">
     <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/linkedin_qmes4s.png" alt="LinkedIn" width="50">
   </a>
-  <a href="https://gitlab.com/Atzelcer" target="_blank">
+  <a href="https://gitlab.com/Atzelcer" target="_blank" rel="noopener">
     <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png" alt="GitLab" width="50">
   </a>
 </p>
