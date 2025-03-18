@@ -4,29 +4,34 @@
 
 ## 🌌 Proyecto Espacial - Descripción 🌌
 
-_"**Galaga Remastered** es una épica aventura espacial que te coloca al mando de la nave **Estrella de Andrómeda**. Enfréntate a hordas de enemigos alienígenas mientras te adentras en lo desconocido, con el objetivo de recuperar la mística **TERRABLEY**. ¡Prepara tus motores y ajusta tus escudos, porque la batalla por la galaxia está a punto de comenzar!"_
-
----
-
-## 🎮 Características del Videojuego 🎮
-
-✅ **Niveles Intergalácticos**: Explora y combate a través de múltiples niveles cada vez más desafiantes.  
-✅ **Combate Contra Naves Enemigas**: Enfrenta patrones de ataque únicos y jefes épicos.  
-✅ **Efectos Visuales Mejorados**: Gráficos y explosiones espectaculares.  
-✅ **Banda Sonora Inmersiva**: Composición musical adaptada al ritmo del juego.  
+_"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal Engine** que te coloca al mando de la nave **Estrella de Andrómeda**. Enfréntate a hordas de enemigos alienígenas mientras te adentras en lo desconocido, con el objetivo de recuperar la mística **TERRABLEY**. ¡Prepara tus motores y ajusta tus escudos, porque la batalla por la galaxia está a punto de comenzar!"_
 
 ---
 
 ## 🧑‍🚀 Detalles del Proyecto 🧑‍🚀
 
-- **📌 Categoría:** Videojuego de Aventura Espacial  
-- **🏛️ Universidad:** Facultad de Tecnología "U.S.F.X"  
-- **💻 Materia:** Programación Avanzada - SIS-457  
-- **👨‍🏫 Docente:** Ing. Pacheco Lora Carlos Walter  
-- **🗓️ Semestre:** 1/2024  
-- **👨‍💻 Desarrolladores:**  
-  - 🛸 **Atzel Alan Cervantes Torres**  
-  - 🛸 **Elmer Kevin Vela Gutiérrez**  
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>📌 <b>Categoría:</b> Videojuego de Aventura Espacial</li>
+        <li>🏛️ <b>Universidad:</b> Facultad de Tecnología "U.S.F.X"</li>
+        <li>💻 <b>Materia:</b> Programación Avanzada - SIS-457</li>
+        <li>📗 <b>Docente:</b> Ing. Pacheco Lora Carlos Walter</li>
+        <li>📅 <b>Semestre:</b> 1/2024</li>
+        <li>👨‍💻 <b>Desarrolladores:</b>
+          <ul>
+            <li>🛸 <b>Atzel Alan Cervantes Torres</b></li>
+            <li>🛸 <b>Elmer Kevin Vela Gutiérrez</b></li>
+          </ul>
+        </li>
+      </ul>
+    </td>
+    <td align="right">
+      <img src="https://github.com/user-attachments/assets/dbd70b0a-6871-4880-846d-971ec690dd77" alt="Logo Galaga" width="150">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -41,10 +46,45 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
   <img src="https://i.postimg.cc/Fz1xQG7X/GR-02.png" alt="Combate Espacial" width="400">
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/yYX31tSh/GR-7.png" alt="Acción" width="400">
-  <img src="https://i.postimg.cc/pXtntRyX/GR-06.png" alt="Explosión" width="400">
-</p>
+---
+
+## 📖 Documentación
+
+### 📌 Diagramas de Clases
+
+#### **NAVES**
+
+##### BÁSICAS Z
+![BÁSICAS Z](https://github.com/user-attachments/assets/e19b7da6-0f0d-44c3-a9f6-33326ffe5eb1)
+
+##### JEFES X
+![JEFES X](https://github.com/user-attachments/assets/be46ba75-c71b-4bdf-95f7-c98c88dff0f6)
+
+##### OBSTACLES AND CAPSULES
+![OBSTACLES AND CAPSULES](https://github.com/user-attachments/assets/6ca1cb7f-c1ef-4f56-9492-2514fd99c808)
+
+##### TERRABLEYS Þ
+![TERRABLEYS Þ](https://github.com/user-attachments/assets/ac19118f-6788-4518-ad47-5520ee0cd7c5)
+
+##### PROJECTILE
+![PROJECTILE](https://github.com/user-attachments/assets/b477832f-7648-4f7f-8c21-f90056b15a8c)
+
+---
+
+### 📌 Design Patterns Utilizados
+
+##### FACTORY METHOD
+![FACTORY METHOD](https://github.com/user-attachments/assets/1ebd7c98-81e0-45bb-ac5f-abcec512e8d4)
+
+##### BUILDER
+![BUILDER](https://github.com/user-attachments/assets/5999b61a-d4a6-4408-affe-267d3ed8fbb1)
+
+##### FACADE
+![FACADE](https://github.com/user-attachments/assets/867b733e-df92-4fca-be52-3d26f734d621)
+
+##### STRATEGY
+![STRATEGY](https://github.com/user-attachments/assets/e6c0e137-7aa7-4b4e-a5c5-8c572239e34b)
+![STRATEGY](https://github.com/user-attachments/assets/fa09d9c0-d8ad-446d-a9a6-141798e79a58)
 
 ---
 
@@ -60,20 +100,22 @@ _"**Galaga Remastered** es una épica aventura espacial que te coloca al mando d
 
 ---
 
-## 🛠 Tecnologías Utilizadas
-
-🔹 Unreal Engine 5  
-🔹 C++ y Blueprints  
-🔹 Inteligencia Artificial en el sistema de combate  
-🔹 Multiplayer con Steam API  
-
----
-
 ## 📫 Contacto
 
-📧 [Email](mailto:tuemail@example.com)  
-💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
-🌎 [Portafolio](https://tuportafolio.com)  
+<p align="center">
+  <a href="https://www.facebook.com/atzel.cervantes.7/" target="_blank">
+    <img src="imagenes2/facebook.png" alt="Facebook" width="40">
+  </a>
+  <a href="https://x.com/Atzelcer" target="_blank">
+    <img src="imagenes2/gorjeo.png" alt="Twitter" width="40">
+  </a>
+  <a href="https://www.instagram.com/scatfonther/" target="_blank">
+    <img src="imagenes2/instagram.png" alt="Instagram" width="40">
+  </a>
+  <a href="https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/" target="_blank">
+    <img src="imagenes2/linkedin.png" alt="LinkedIn" width="40">
+  </a>
+</p>
 
 ---
 
