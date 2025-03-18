@@ -101,9 +101,6 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 ## 📫 Contacto
 
 <p align="center">
-  <a href="https://wa.me/qr/W5KYOB6FW7KCM1" target="_blank" rel="noopener">
-    <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png" alt="WhatsApp" width="50" style="margin: 0 10px;">
-  </a>
   <a href="https://www.facebook.com/atzel.cervantes.7/" target="_blank" rel="noopener">
     <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/facebook_k1vgq3.png" alt="Facebook" width="50" style="margin: 0 10px;">
   </a>
