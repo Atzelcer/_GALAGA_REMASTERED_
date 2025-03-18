@@ -121,22 +121,40 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 ---
 
 ## 📫 Contacto
-
-   [![WhatsApp](https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png)](https://wa.me/qr/W5KYOB6FW7KCM1) | [![Facebook](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/facebook_k1vgq3.png)](https://www.facebook.com/atzel.cervantes.7/) | [![Twitter](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260959/Twitter_nvban3.png)](https://x.com/Atzelcer) | [![Instagram](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260343/instagram_smik6z.png)](https://www.instagram.com/scatfonther/) | [![LinkedIn](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/linkedin_qmes4s.png)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/) | [![GitLab](https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png)](https://gitlab.com/Atzelcer) |
- | :---: | :---: | :---: | :---: | :---: | :---: |
-
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  td {
-    border: 2px solid black;
-    padding: 5px;
-  }
-  img {
-    width: 30px;
-  }
-</style>
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: 2px solid black; padding: 5px;">
+      <a href="https://wa.me/qr/W5KYOB6FW7KCM1" target="_blank" rel="noopener">
+        <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png" alt="WhatsApp" width="30">
+      </a>
+    </td>
+    <td style="border: 2px solid black; padding: 5px;">
+      <a href="https://www.facebook.com/atzel.cervantes.7/" target="_blank" rel="noopener">
+        <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/facebook_k1vgq3.png" alt="Facebook" width="30">
+      </a>
+    </td>
+    <td style="border: 2px solid black; padding: 5px;">
+      <a href="https://x.com/Atzelcer" target="_blank" rel="noopener">
+        <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260959/Twitter_nvban3.png" alt="Twitter" width="30">
+      </a>
+    </td>
+    <td style="border: 2px solid black; padding: 5px;">
+      <a href="https://www.instagram.com/scatfonther/" target="_blank" rel="noopener">
+        <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260343/instagram_smik6z.png" alt="Instagram" width="30">
+      </a>
+    </td>
+    <td style="border: 2px solid black; padding: 5px;">
+      <a href="https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/" target="_blank" rel="noopener">
+        <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/linkedin_qmes4s.png" alt="LinkedIn" width="30">
+      </a>
+    </td>
+    <td style="border: 2px solid black; padding: 5px;">
+      <a href="https://gitlab.com/Atzelcer" target="_blank" rel="noopener">
+        <img src="https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png" alt="GitLab" width="30">
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
