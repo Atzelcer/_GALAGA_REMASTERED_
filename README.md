@@ -121,10 +121,21 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 ---
 
 ## 📫 Contacto
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  td {
+    border: 2px solid black;
+    padding: 5px;
+  }
+  img {
+    width: 30px;
+  }
+</style>
 
-| [![WhatsApp](https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png)](https://wa.me/qr/W5KYOB6FW7KCM1) | [![Facebook](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/facebook_k1vgq3.png)](https://www.facebook.com/atzel.cervantes.7/) | [![Twitter](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260959/Twitter_nvban3.png)](https://x.com/Atzelcer) | [![Instagram](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260343/instagram_smik6z.png)](https://www.instagram.com/scatfonther/) | [![LinkedIn](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/linkedin_qmes4s.png)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/) | [![GitLab](https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png)](https://gitlab.com/Atzelcer) |
-
-¡Prepárate para una experiencia cósmica sin igual! 🚀
+| [![Facebook](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/facebook_k1vgq3.png)](https://www.facebook.com/atzel.cervantes.7/) | [![Twitter](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260959/Twitter_nvban3.png)](https://x.com/Atzelcer) | [![Instagram](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260343/instagram_smik6z.png)](https://www.instagram.com/scatfonther/) | [![LinkedIn](https://res.cloudinary.com/dhowgvihb/image/upload/v1742260342/linkedin_qmes4s.png)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/) | [![GitLab](https://res.cloudinary.com/dhowgvihb/image/upload/v1742261074/gitlab_h1745i.png)](https://gitlab.com/Atzelcer) |
+| :---: | :---: | :---: | :---: | :---: | :---: |
 
 
 ---
