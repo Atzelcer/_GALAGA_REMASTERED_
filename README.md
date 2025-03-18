@@ -12,7 +12,7 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 
 <table>
   <tr>
-    <td width="60%">
+    <td width="100%">
       <ul>
         <li>📌 <b>Categoría:</b> Videojuego de Aventura Espacial</li>
         <li>🏛️ <b>Universidad:</b> Facultad de Tecnología "U.S.F.X"</li>
