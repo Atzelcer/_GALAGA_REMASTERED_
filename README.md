@@ -93,8 +93,8 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 🔹 **Descarga el juego aquí**: [Galaga Remastered - Ejecutable](https://drive.google.com/drive/folders/1pqXsA5pE1vN-v9cAjTb8maEVNhY5r71a?usp=drive_link)
 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/68025698/92303345-c79f9580-ef51-11ea-946a-8b15cf58ce3e.gif" alt="Space Animation" width="600">
+<p align="center" style="display: flex; justify-content: center;">
+  <img src="https://user-images.githubusercontent.com/68025698/92303345-c79f9580-ef51-11ea-946a-8b15cf58ce3e.gif" alt="Space Animation" width="600" style="display: block; margin: auto;">
 </p>
 
 ---
@@ -122,5 +122,7 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 ---
 
 
+<div align="center">
+  <h2>🚀 ¡Prepárate para una experiencia cósmica sin igual! 🚀</h2>
+</div>
 
-### 🚀 ¡Prepárate para una experiencia cósmica sin igual! 🚀
