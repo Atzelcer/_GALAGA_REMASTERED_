@@ -159,13 +159,24 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 
 ---
 
-<div align="left">
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/scatfonther/)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/Atzelcer)
-[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/atzel.cervantes.7/)
-[![GitLab](https://skillicons.dev/icons?i=gitlab)](https://gitlab.com/Atzelcer)
+<div align="left" style="display: flex; gap: 10px;">
+  <a href="https://www.instagram.com/scatfonther/" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" style="border: 2px solid black;">
+  </a>
+  <a href="https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" style="border: 2px solid black;">
+  </a>
+  <a href="https://x.com/Atzelcer" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" style="border: 2px solid black;">
+  </a>
+  <a href="https://www.facebook.com/atzel.cervantes.7/" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=facebook" alt="Facebook" style="border: 2px solid black;">
+  </a>
+  <a href="https://gitlab.com/Atzelcer" target="_blank" rel="noopener">
+    <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" style="border: 2px solid black;">
+  </a>
 </div>
+
 
 
 ¡Prepárate para una experiencia cósmica sin igual! 🚀
