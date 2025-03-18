@@ -84,7 +84,11 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
 
 ##### STRATEGY
 ![STRATEGY](https://github.com/user-attachments/assets/e6c0e137-7aa7-4b4e-a5c5-8c572239e34b)
-![STRATEGY](https://github.com/user-attachments/assets/fa09d9c0-d8ad-446d-a9a6-141798e79a58)
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/fa09d9c0-d8ad-446d-a9a6-141798e79a58" alt="STRATEGY" style="width: 80%;">
+</div>
+
 
 ---
 
