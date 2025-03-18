@@ -28,10 +28,11 @@ _"**Galaga Remastered** es una épica aventura espacial desarrollada en **Unreal
       </ul>
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/dbd70b0a-6871-4880-846d-971ec690dd77" alt="Logo Galaga" width="300">
+      <img src="https://github.com/user-attachments/assets/dbd70b0a-6871-4880-846d-971ec690dd77" alt="Logo Galaga" width="450">
     </td>
   </tr>
 </table>
+
 ---
 
 ## 🌠 Vista Previa del Proyecto 🌠
