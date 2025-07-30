@@ -328,8 +328,6 @@
   </tr>
 </table>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkdnJmcWF3bXJodXRqYjVqOWd6b3ltNmU2ZjlmbW42bjUxM2ludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Space Animation">
-
 </div>
 
 ---
@@ -400,9 +398,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=25&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=DEFIENDE+LA+GALAXIA;RECUPERA+LA+TERRABLEY;CONVIÉRTETE+EN+LEYENDA;GALAGA+REMASTERED+TE+ESPERA" alt="Typing SVG" />
 
 ### *"El destino de la galaxia está en tus manos, piloto. ¿Estás listo para el desafío?"*
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkdnJmcWF3bXJodXRqYjVqOWd6b3ltNmU2ZjlmbW42bjUxM2ludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Space Battle GIF">
-
 **⭐ Si te gustó el proyecto, no olvides darle una estrella ⭐**
 
 <a href="https://github.com/Atzelcer/GALAGA_REMASTERED">
