@@ -1,7 +1,17 @@
 <div align="center">
 
 # 🌌 **GALAGA REMASTERED** 🌌
-### *La Épica Batalla por la Galaxia Comienza Aquí*
+##      <h3>👨‍🚀 Desarrolladores Espaciales</h3>
+      <table>
+        <tr>
+          <td><img src="https://github.com/Atzelcer.png" width="60" style="border-radius: 50%;"></td>
+          <td><strong>🛸 Atzel Alan Cervantes Torres</strong><br><em>Lead Developer & Game Designer</em></td>
+        </tr>
+        <tr>
+          <td><img src="https://github.com/ElmerKevin.png" width="60" style="border-radius: 50%;"></td>
+          <td><strong>🛸 Elmer Kevin Vela Gutiérrez</strong><br><em>3D Artist & Gameplay Programmer</em></td>
+        </tr>
+      </table> Batalla por la Galaxia Comienza Aquí*
 
 [![Made with Unreal Engine](https://img.shields.io/badge/Made%20with-Unreal%20Engine-0E1128?style=for-the-badge&logo=unreal-engine&logoColor=white)](https://unrealengine.com/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -26,9 +36,13 @@
 
 <div align="center">
 
-*"En el año 2157, la galaxia se encuentra al borde del colapso. Los alienígenas han invadido cada sector conocido, y solo queda una esperanza: **TÚ**. Al mando de la legendaria nave **Estrella de Andrómeda**, deberás enfrentarte a hordas infinitas de enemigos cósmicos en una batalla épica por la supervivencia. Tu misión: recuperar la mística **TERRABLEY** antes de que sea demasiado tarde."*
+*"La historia comienza con nuestra nave, la **Estrella de Andrómeda**, patrullando la galaxia en busca de aventuras. De repente, una alerta se activa en un planeta cercano, indicando una posible amenaza. Al llegar, inesperadamente, es atacada por los **ArcoBox** - una civilización extraterrestre hostil."*
 
-### ⚡ **¡PREPARA TUS MOTORES, AJUSTA TUS ESCUDOS Y DEFIENDE LA GALAXIA!** ⚡
+*"Intenta defenderse, pero la cantidad de naves enemigas es abrumadora. No tiene otra alternativa que aterrizar en el planeta de donde provino la alerta. En el planeta, descubre que los **ArcoBox** intentan obtener la **TERRA-BLEY**, una gema que otorga poderes inimaginables y que puede amplificar planetas enteros."*
+
+*"Al tratar de detenerlos, los disparo de los **ArcoBox** impactan la **TERRA-BLEY**, fragmentándola en trece gemas que se dispersan por toda la galaxia. Nuestro objetivo es recuperarlas."*
+
+### ⚡ **¡PREPARA TUS MOTORES, AJUSTA TUS ESCUDOS Y RECUPERA LOS FRAGMENTOS DE TERRA-BLEY!** ⚡
 
 </div>
 
@@ -271,26 +285,56 @@
 
 <table align="center">
   <tr>
-    <td><kbd>WASD</kbd></td>
-    <td>Movimiento de la nave</td>
-    <td><kbd>SPACE</kbd></td>
-    <td>Disparar proyectil principal</td>
+    <td><kbd>W</kbd></td>
+    <td>Navegación Arriba</td>
+    <td><kbd>1</kbd></td>
+    <td>Proyectil Astro Bean</td>
   </tr>
   <tr>
-    <td><kbd>SHIFT</kbd></td>
-    <td>Boost de velocidad</td>
-    <td><kbd>Q/E</kbd></td>
-    <td>Disparos especiales</td>
+    <td><kbd>S</kbd></td>
+    <td>Navegación Abajo</td>
+    <td><kbd>2</kbd></td>
+    <td>Proyectil Aurora Dagger</td>
   </tr>
   <tr>
-    <td><kbd>ESC</kbd></td>
-    <td>Menú de pausa</td>
-    <td><kbd>TAB</kbd></td>
-    <td>Estadísticas</td>
+    <td><kbd>D</kbd></td>
+    <td>Navegación Derecha</td>
+    <td><kbd>3</kbd></td>
+    <td>Proyectil Celestial Arrow</td>
+  </tr>
+  <tr>
+    <td><kbd>A</kbd></td>
+    <td>Navegación Izquierda</td>
+    <td><kbd>4</kbd></td>
+    <td>Proyectil Nova Pulse</td>
+  </tr>
+  <tr>
+    <td><kbd>I</kbd></td>
+    <td>Propulsor Cuántico</td>
+    <td><kbd>5</kbd></td>
+    <td>Proyectil Void Missile</td>
+  </tr>
+  <tr>
+    <td><kbd>P</kbd></td>
+    <td>Inmunidad Total</td>
+    <td><kbd>6</kbd></td>
+    <td>Proyectil Galactic Ray</td>
+  </tr>
+  <tr>
+    <td><kbd>Tab</kbd></td>
+    <td>Bandeja de Mensajes</td>
+    <td><kbd>7</kbd></td>
+    <td>Proyectil Void Echo</td>
+  </tr>
+  <tr>
+    <td><kbd>Space</kbd></td>
+    <td>Disparar</td>
+    <td><kbd>Esc</kbd></td>
+    <td>Menú Pause</td>
   </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/68025698/92303345-c79f9580-ef51-11ea-946a-8b15cf58ce3e.gif" alt="Space Animation" width="600">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkdnJmcWF3bXJodXRqYjVqOWd6b3ltNmU2ZjlmbW42bjUxM2ludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif" width="600" alt="Space Animation">
 
 </div>
 
@@ -330,7 +374,7 @@
   <tr>
     <td align="center">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-      <br><strong>atzel.cervantes@dev.com</strong>
+      <br><strong>atzelcer@gmail.com</strong>
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
@@ -338,7 +382,7 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-      <br><strong>AtzelCer#1234</strong>
+      <br><strong>atzelcer54 - Atzel#0787</strong>
     </td>
   </tr>
 </table>
@@ -363,7 +407,7 @@
 
 ### *"El destino de la galaxia está en tus manos, piloto. ¿Estás listo para el desafío?"*
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Space Battle">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExenlkdnJmcWF3bXJodXRqYjVqOWd6b3ltNmU2ZjlmbW42bjUxM2ludiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oEjI6SIIHBdRxXI40/giphy.gif" width="400" alt="Space Battle GIF">
 
 **⭐ Si te gustó el proyecto, no olvides darle una estrella ⭐**
 
