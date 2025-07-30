@@ -1,14 +1,12 @@
 <div align="center">
 
 # 🌌 **GALAGA REMASTERED** 🌌
-##<h3>👨‍🚀 Desarrolladores Espaciales</h3>
+<h3>👨‍🚀 Desarrolladores Espaciales</h3>
       <table>
         <tr>
-          <td><img src="https://github.com/Atzelcer.png" width="60" style="border-radius: 50%;"></td>
           <td><strong>🛸 Atzel Alan Cervantes Torres</strong><br><em>Lead Developer & Game Designer</em></td>
         </tr>
         <tr>
-          <td><img src="https://github.com/ElmerKevin.png" width="60" style="border-radius: 50%;"></td>
           <td><strong>🛸 Elmer Kevin Vela Gutiérrez</strong><br><em>3D Artist & Gameplay Programmer</em></td>
         </tr>
       </table> Batalla por la Galaxia Comienza Aquí*
@@ -64,7 +62,6 @@
         <li>📅 <strong>Período Académico:</strong> Semestre 1/2024</li>
         <li>⭐ <strong>Calificación:</strong> <span style="color: gold;">★★★★★</span></li>
       </ul>
-      
       <h3>👨‍� Desarrolladores Espaciales</h3>
       <table>
         <tr>
@@ -79,7 +76,6 @@
     </td>
     <td width="30%" align="center" style="vertical-align: top;">
       <img src="https://github.com/user-attachments/assets/dbd70b0a-6871-4880-846d-971ec690dd77" alt="Logo Galaga" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-      
       <h3>🔥 Estadísticas del Proyecto</h3>
       <img src="https://img.shields.io/badge/Líneas%20de%20Código-15K+-brightgreen?style=for-the-badge">
       <img src="https://img.shields.io/badge/Assets%203D-200+-blue?style=for-the-badge">
