@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🌌 **GALAGA REMASTERED** 🌌
-##      <h3>👨‍🚀 Desarrolladores Espaciales</h3>
+##<h3>👨‍🚀 Desarrolladores Espaciales</h3>
       <table>
         <tr>
           <td><img src="https://github.com/Atzelcer.png" width="60" style="border-radius: 50%;"></td>
