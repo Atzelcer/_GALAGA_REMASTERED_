@@ -65,11 +65,9 @@
       <h3>👨‍� Desarrolladores Espaciales</h3>
       <table>
         <tr>
-          <td><img src="https://github.com/Atzelcer.png" width="60" style="border-radius: 50%;"></td>
           <td><strong>🛸 Atzel Alan Cervantes Torres</strong><br><em>Lead Developer & Game Designer</em></td>
         </tr>
         <tr>
-          <td><img src="https://github.com/EmmerKevin.png" width="60" style="border-radius: 50%;"></td>
           <td><strong>🛸 Elmer Kevin Vela Gutiérrez</strong><br><em>3D Artist & Gameplay Programmer</em></td>
         </tr>
       </table>
@@ -89,7 +87,7 @@
 
 ---
 
-## � **CARACTERÍSTICAS DEL JUEGO** 🎮
+## **CARACTERÍSTICAS DEL JUEGO** 🎮
 
 <div align="center">
 
