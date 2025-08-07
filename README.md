@@ -242,7 +242,7 @@
 
 ### � **¡EMBÁRCATE EN LA AVENTURA AHORA!**
 
-<a href="https://drive.google.com/drive/folders/1pqXsA5pE1vN-v9cAjTb8maEVNhY5r71a?usp=drive_link">
+<a href="https://www.mediafire.com/folder/bnd3ce126a4rm/GalagaRemastered">
   <img src="https://img.shields.io/badge/🎮%20DESCARGAR%20JUEGO-FF0000?style=for-the-badge&logoColor=white&labelColor=000000" alt="Descargar Juego" height="60">
 </a>
 
