@@ -213,19 +213,19 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://img.shields.io/badge/Clases%20C++-45-brightgreen?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Clases%20C++-105-brightgreen?style=for-the-badge">
       <br><strong>Clases Implementadas</strong>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Blueprints-30-blue?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Blueprints-5-blue?style=for-the-badge">
       <br><strong>Blueprints Creados</strong>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Niveles-5-purple?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Niveles-15-purple?style=for-the-badge">
       <br><strong>Niveles de Juego</strong>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/Patrones-4-orange?style=for-the-badge">
+      <img src="https://img.shields.io/badge/Patrones-7-orange?style=for-the-badge">
       <br><strong>Design Patterns</strong>
     </td>
   </tr>
